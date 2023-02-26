@@ -1,19 +1,1 @@
-# Vagrant - or - how to code in your local computer
-
-## Learning Objectives
-
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-* What is a virtual machine
-
-* What is Vagrant
-
-* Who wrote Vagrant
-
-* What is Ubuntu
-
-* What does â€œUbuntuâ€ mean
-
-* How to use VMs with Vagrant
-
-* What does the command uname do
+VimCrypt~03!€ª®wdo4IF½§ú<A«s}ÔşˆL]¶C®±~ÛL†ioËEçÚå‡k½Ø®÷·‡´Çc¯ÀiÃÔ+¥t=ÌR×t2—à{Ñ¨jÚùq.¸H‚âÇĞ…ÃÀèXƒcşóĞÖ5K6•3»¯"›İÖàóıcK‘çñãàÈúûòDÜ¹ÑvÙxœ‰ñ’íÆ8ä»ëİHOI•[”	yNÓ×/§T‹4?ağÏèŸM12Ä¶¼Yü}-ÅiwÈá@ÉoaÃ›´îRÕâÅG¯Ö›â&I6«ÜAL„4»€P2¸>Æá”×‡ïËÒŒØK¸'ceŠ_6ö+ˆ‹³•XÙæv„ã°»pŞKÆŸ…²Vú£½¬¬2”
